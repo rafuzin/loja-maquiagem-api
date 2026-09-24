@@ -1,0 +1,17 @@
+[1].env:
+Guarda informações de configuração e dados sensíveis, como senha e acesso ao banco de dados.
+
+[2].gitignore:
+Define quais arquivos e pastas não devem ser enviados para o Git/GitHub.
+
+[3]LICENSE:
+Informa as regras e permissões para usar, modificar e distribuir o projeto.
+
+[4]README.md:
+Explica o projeto, como ele funciona e como instalar e usar.
+
+[5]src/config/db.js:
+Faz a conexão da aplicação com o banco de dados PostgreSQL.
+
+[6]src/services/produto.service.js:
+Contém as funções que acessam o banco para consultar e cadastrar produtos.
